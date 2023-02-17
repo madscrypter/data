@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 # Run the installation script with the specified inputs
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
